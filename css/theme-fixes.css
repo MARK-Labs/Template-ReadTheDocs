@@ -25,7 +25,8 @@ pre {
     margin: 1px 0 24px 0;
 }
 
-img[alt="plus icon"] { width: 20px; }
-img[alt="disable icon"] { width: 20px; }
-img[alt="pencil icon"] { width: 20px; }
-img[alt="delete icon"] { width: 20px; }
+img[alt="plus icon"] { width: 18px; }
+img[alt="disable icon"] { width: 18px; }
+img[alt="pencil icon"] { width: 18px; }
+img[alt="refresh icon"] { width: 18px; }
+img[alt="cross icon"] { width: 18px; }
